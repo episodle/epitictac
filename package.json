@@ -8,12 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/episodle/epitictac.git"
+    "url": "https://github.com/episodle/epitictac"
   },
   "author": "episodle",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/episodle/epitictac/issues"
   },
-  "homepage": "https://github.com/episodle/epitictac#readme"
+  "homepage": "https://github.com/episodle/epitictac#readme",
+  "dependencies": {
+    "abbeeytea": "^1.1.6",
+    "pinsapod": "^1.1.5",
+    "queencrow": "^1.1.6"
+  }
 }
